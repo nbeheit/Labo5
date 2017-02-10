@@ -1,1 +1,1 @@
-Ajout par la console
+Ajout tout simplement
