@@ -1,4 +1,4 @@
----
+
 # Normes de codification - Équipe 16
 
 ####   Emilie Paquin - Nadim Beheit - Patrice Desrochers  
