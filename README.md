@@ -2,10 +2,6 @@
 title: "Normes de codification - Équipe 16"
 output: github_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 ####   Emilie Paquin - Nadim Beheit - Patrice Desrochers  
 
 ### Normes
@@ -16,6 +12,10 @@ Voici les normes de codification qui définiront le travail de session pour le c
 * La casse utilisée pour le nom des classes et des fonctions sera PascalCase.
 * Pour le nom des variables, la casse sera en camelCase
 * La mise en forme du code et du texte se fera avec la fonction "Beautify" fourni par NetBeans
+
+
+
+
 
 
 
