@@ -1,6 +1,5 @@
 ---
 title: "Normes de codification - Équipe 16"
-output: github_document
 ---
 ####   Emilie Paquin - Nadim Beheit - Patrice Desrochers  
 
